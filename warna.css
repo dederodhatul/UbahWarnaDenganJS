@@ -1,0 +1,56 @@
+h1{
+	text-align: center;
+}
+
+body{
+	text-align: center;
+}
+
+.light-blue{
+	background-color: lightblue;
+}
+
+.kotak{
+	width: 50px;
+	height: 50px;	margin: 20px auto;
+}
+
+.merah{
+
+	background-color: red;
+
+}
+
+.hijau{
+	background-color: green;
+}
+
+.biru{
+	background-color: blue;
+}
+
+button{
+	display: block;
+	margin: 20px auto;
+}
+
+footer{
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	height: 60px;
+	background-color: #333;
+	border: 1px solid;
+	color: #fff;
+	left: 0;
+	right: 0;
+}
+
+a{
+	color: red;
+	transition: .4s;
+}
+
+a:hover{
+	font-size: 15px;
+}
